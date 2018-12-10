@@ -2,15 +2,22 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: EvalQAI
+  role: Primary Developer
+  duration: 2018 &mdash; Present
   # url: "#"
   description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
+- project: Escola de Férias ICEI @ PUC Minas
   role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+  duration: 2015 &mdash; Present
+  url: "http://www.icei.pucminas.br/escoladeferias"
+  description: EdF ICEI is a bootcamp that occurs one week after each term ends, local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+
+# Springfield Community Outreach Group
+- project: PyData Belo Horizonte
+  role: Co-Organizer
+  duration: 2017 &mdash; Present
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: PyData BH is a local monthly meetup in Belo Horizonte where we share knowledge and present projects about data science and the python language.

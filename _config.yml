@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Izabela Borges - Data Scientist"
+description: "Meet Izabela Borges."
 
 # Build settings
 markdown: kramdown
@@ -10,26 +10,36 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Lisa M. Simpson"
-resume_title:                   "VP of Global Communications"
+resume_name:                    "Izabela C. Borges"
+resume_title:                   "Data Science Intern"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "hello@izabelacborges.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "+55 31 99127-7598"
+resume_contact_address:         "Rua Enéas 439A, Glória"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+resume_header_contact_info:     "Rua Enéas 439A, Glória • +55 31 99127-7598 • hello@izabelacborges.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>I’m a data science intern with an interest in developing projects that promote 
+some impact on our society, with attention to fairness, accountability and transparency in artificial 
+intelligence. For the past 2 years, I’ve been studying storytelling (oh, how I love presentations for 
+my researches!), natural language processing, machine learning algorithms, and deep learning.</p> 
+<p>I also am a teaching assistant at PUC Minas for Programming Languages and Language Theory, member 
+of the Student Union, and co-founder, organizer & lecturer on our summer and winter bootcamps. And I 
+love to help organize our PyData BH meetups too.</p>
+<p>In my free time, I love doing yoga with my cat, dreaming about being the next J.K. Rowling (who 
+knows right?!), and getting all my clothes stained in watercolour paints.</p>
+<p>If you’d like to learn more about me and what I have been doing lately, you can reach me through my 
+website and social networks clicking on the icons above.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "yes"
+# resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
@@ -37,22 +47,22 @@ resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
-resume_section_recognition:     true
-resume_section_links:           true
-resume_section_associations:    true
-# resume_section_interests:       true
+# resume_section_recognition:     true
+# resume_section_links:           true
+# resume_section_associations:    true
+resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_github_url:            "https://github.com/izabelacborges"
+  # resume_twitter_url:           "http://twitter.com/jglovier"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/izabelacborges"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  resume_website_url:           "http://izabelacborges.com"
+  resume_medium_url:            "https://medium.com/@izabelacborges"
 resume_print_social_links:      true
 
 # Design settings

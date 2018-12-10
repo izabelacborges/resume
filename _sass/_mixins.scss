@@ -50,27 +50,31 @@
 
 // type utilities
 
-@mixin sans {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+@mixin sans($title:no) {
+  @if $title == "no" {
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  } @else if $title == "yes" {
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
 }
 
-@mixin sans_light {
-  @include sans;
+@mixin sans_light($title:no) {
+  @include sans($title);
   font-weight: 300;
 }
 
-@mixin sans_regular {
-  @include sans;
+@mixin sans_regular($title:no) {
+  @include sans($title);
   font-weight: 400;
 }
 
-@mixin sans_bold {
-  @include sans;
-  font-weight: 700;
+@mixin sans_bold($title:no) {
+  @include sans($title);
+  font-weight: 600;
 }
 
-@mixin sans_extrabold {
-  @include sans;
+@mixin sans_extrabold($title:no) {
+  @include sans($title);
   font-weight: 800;
 }
 

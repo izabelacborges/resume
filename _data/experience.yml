@@ -1,19 +1,24 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Data Science Intern
+- company: HEKIMA
+  position: Data Science Intern
+  duration: May, 2018 &mdash; Present
+  summary: Participated in the development of custom artificial intelligence solutions to solve complex challenges for different industry segments such as retail, education and industry 4.0 by combining diverse machine learning models and techniques and human knowledge.<p>Tools used in the development of those solutions combine programming languages such as Python, R, Java, Scala and Go, modules prepared to deal with extensive data, calculations and assemble ML models such as Spark, pandas, scikit, and visualization modules such as plotnine, seaborn, matplotlib and PowerBI.</p><p>Architecture and deployment of those solutions are made with a proprietary application compatible with the most used cloud services such as Amazon AWS, Google Cloud and Microsoft Azure.</p>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Software Engineer Intern 
+- company: BASE2 Tecnologia
+  position: Software Engineer Intern
+  duration: Dec, 2017 &mdash; Apr, 2018
+  summary: Worked remotely with multiple teams of other subsidiaries to prototype and develop a web software product using the Rails framework, HTML/ERB and CSS/SASS. <p>Also developed web scraping applications to collect social data using Scrapy and BeautifulSoup4, and implemented landing pages using Jekyll, a Ruby framework and Pelican, a Python framework.</p>
 
+# Quality Assurance Intern
+- company: 
+  position: Quality Assurance & DevOps Intern
+  duration: May, 2016 &mdash; Dec, 2017
+  summary: Worked remotely in an outsourced software testing factory process with teams overseas to develop, implement and integrate quality assurance pipelines that involved reviewing and understanding system requirements to develop coherent test cases and test scenarios, convert test cases into test scripts in Python, Java and in C# along with the Selenium WebDriver framework, measure performance through load and stress tests using the Apache JMeter tool, developing templates for reporting and presenting test results and metrics using Allure Report and ReportUnit. <p>QA pipelines were further integrated with deployment workflow using a continuous integration process using DevOps techniques and tools such as CircleCI, Travis CI and Jenkins along with AWS S3 and Google Cloud with Docker.</p>
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Quality Assurance Intern
+- company: Prefeitura de Belo Horizonte
+  position: Quality Assurance & Infrastructure Intern
+  duration: Aug, 2015 &mdash; May, 2016
+  summary: Participated in the creation and homologation of use cases for the SIGPS system reviewing and understanding system requirements to develop test cases and test scenarios and further conducting manual testing for web-based applications. <p>Also gained experience with managing, setting up and offering support for the hardware used onsite, mostly providing network maintenance.</p>
